@@ -2,7 +2,11 @@
 A collection of useful algorithms for remote sensing applications primarily focused on utilising single board computers and additional sensors.
 
 ## Hardware
+### Raspberry Pi Model 3B+
 ![](Images/raspberry_pi_3.jpg)
+
+### DHT22 Temperature & Humidity Sensor
+![](Images/DHT22.png)
 
 ## License
 MIT License
