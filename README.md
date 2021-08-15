@@ -3,7 +3,7 @@ A collection of useful algorithms for remote sensing applications primarily focu
 
 ## Hardware
 ### Raspberry Pi Model 3B+
-![](Images/raspberry_pi_3_resized.jpg)
+![](Images/raspberry_pi_3_resized_v3.jpeg)
 
 ### DHT22 Temperature & Humidity Sensor
 ![](Images/DHT22_resized.png)
