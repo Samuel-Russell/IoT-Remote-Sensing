@@ -1,6 +1,9 @@
 # Remote_Sensing_Algorithms
 A collection of useful algorithms for remote sensing applications primarily focused on utilising single board computers and additional sensors.
 
+## Scripts
+'Read_DHT22_Data.py' is a script for reading temperature and humidity data from the DHT22 sensor connected to the Raspberry Pi. It has a widee range of applications such as monitoring the interior conditions of a commercial or residential building to remote sensing the conditions inside of a greenhouse and other agricultural settings. 
+
 ## Hardware
 ### Raspberry Pi Model 3B+
 ![](Images/raspberry_pi_3_resized_v3.jpeg)
