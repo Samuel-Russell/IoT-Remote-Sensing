@@ -1,4 +1,4 @@
-# Remote-Sensing-Algorithms
+# IoT-Remote-Sensing
 A collection of useful algorithms for remote sensing applications primarily focused on utilising single board computers and additional sensors.
 
 ## Scripts
