@@ -2,7 +2,9 @@
 A collection of useful algorithms for remote sensing applications primarily focused on utilising single board computers and additional sensors.
 
 ## Scripts
-'Read_DHT22_Data.py' is a script for reading temperature and humidity data from the DHT22 sensor connected to the Raspberry Pi. It has a widee range of applications such as monitoring the interior conditions of a commercial or residential building to remote sensing the conditions inside of a greenhouse and other agricultural settings. 
+'Read_DHT22_Data.py' is a script for reading temperature and humidity data from the DHT22 sensor connected to the Raspberry Pi. It has a wide range of applications such as monitoring the interior conditions of a commercial or residential building to remote sensing the conditions inside of a greenhouse and other agricultural settings.
+
+'Read_BMP280_Data.py' is a script for reading altitude, air pressure and temperature data from the BMP280 sensor connected to the Raspberry Pi. It is particularly useful for meteorological studies and is a cost effective method for receiving local weather data.
 
 ## Hardware
 ### Raspberry Pi Model 3B+
